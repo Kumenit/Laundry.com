@@ -63,7 +63,15 @@ body {
   text-align: left;
   background-color: #fff;
 }
-
+#mapdiv{
+	  height:1000px;
+	  width:1200px;
+}
+#map{
+	width:160%;
+	height:140%;
+	
+}
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
