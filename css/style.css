@@ -72,6 +72,22 @@ body {
 	height:140%;
 	
 }
+.video{
+	width:100%;
+	
+}
+.v1{
+	width:50%;
+	float:left;
+	padding:10px;
+}
+.v2{
+	width:100%;
+	float:left;
+	padding:10px;
+	
+	
+}
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
